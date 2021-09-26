@@ -1,7 +1,10 @@
 alterado
 
-São José
-Vila Aparecida
-Redentor
-Centro
-Vila Mariana
+São José - Região Sul
+Vila Aparecida - Região Sul
+Redentor - Região Oeste
+Centro - Região Central
+Vila Mariana - Região Central 
+
+Jardim Noemia - Região Norte
+Morada do Verde - Região Norte

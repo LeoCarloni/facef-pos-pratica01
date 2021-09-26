@@ -1,7 +1,10 @@
 alterado
 
-Franca
-São Paulo
-Delfinopolis
-Rifaina
-Treviso
+Franca/SP
+São Paulo/SP
+Delfinopolis/MG
+Rifaina/SP
+Treviso/SC
+
+Rio de Janeiro/RJ
+Bom Jardim da Serra/SC

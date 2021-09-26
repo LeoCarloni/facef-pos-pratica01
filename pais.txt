@@ -1,7 +1,10 @@
 alterado
 
-Brasil
-China
-EUA
-Canada
-Chile
+Brasil - America do Sul
+China - Asia
+Estados Unidos - America do Norte
+Canada - America do Norte
+Chile - America do Sul
+
+Italia - Europa
+Japão - Asia
