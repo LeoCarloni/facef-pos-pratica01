@@ -36,7 +36,7 @@
 
     •	git add . 
     •	git commit -m "Adicionar a palavra 'Alterado'"
-    •	git pull origin locais-b
+    •	git push origin locais-b
     
 7- Crie merge request para a master;
 
